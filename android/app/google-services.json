@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658778695",
+    "project_id": "bookcom-24435",
+    "storage_bucket": "bookcom-24435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658778695:android:7279a092754a71d1ec1f62",
+        "android_client_info": {
+          "package_name": "com.bookcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658778695-6clt8ih4kmb5shqp9gn29lplaf5knvb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOmoHc6n_Y5IquvZRzQQKrw7GoWpxuMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658778695-6clt8ih4kmb5shqp9gn29lplaf5knvb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
